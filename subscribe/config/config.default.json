@@ -87,13 +87,6 @@
             "notinurl": [],
             "push_to": []
         },
-        "github": {
-            "enable": true,
-            "pages": 2,
-            "push_to": [],
-            "exclude": "",
-            "spams": []
-        },
         "twitter": {
             "enable": true,
             "users": {
